@@ -1,0 +1,12 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\bin\Debug\netcoreapp3.1\7-Condições.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\bin\Debug\netcoreapp3.1\7-Condições.deps.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\bin\Debug\netcoreapp3.1\7-Condições.runtimeconfig.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\bin\Debug\netcoreapp3.1\7-Condições.runtimeconfig.dev.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\bin\Debug\netcoreapp3.1\7-Condições.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\bin\Debug\netcoreapp3.1\7-Condições.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\obj\Debug\netcoreapp3.1\7-Condições.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\obj\Debug\netcoreapp3.1\7-Condições.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\obj\Debug\netcoreapp3.1\7-Condições.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\obj\Debug\netcoreapp3.1\7-Condições.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\obj\Debug\netcoreapp3.1\7-Condições.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\7-Condições\obj\Debug\netcoreapp3.1\7-Condições.genruntimeconfig.cache

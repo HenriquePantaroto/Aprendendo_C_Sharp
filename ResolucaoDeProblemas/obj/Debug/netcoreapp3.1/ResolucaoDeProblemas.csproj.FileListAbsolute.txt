@@ -1,0 +1,12 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\bin\Debug\netcoreapp3.1\ResolucaoDeProblemas.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\bin\Debug\netcoreapp3.1\ResolucaoDeProblemas.deps.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\bin\Debug\netcoreapp3.1\ResolucaoDeProblemas.runtimeconfig.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\bin\Debug\netcoreapp3.1\ResolucaoDeProblemas.runtimeconfig.dev.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\bin\Debug\netcoreapp3.1\ResolucaoDeProblemas.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\bin\Debug\netcoreapp3.1\ResolucaoDeProblemas.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\obj\Debug\netcoreapp3.1\ResolucaoDeProblemas.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\obj\Debug\netcoreapp3.1\ResolucaoDeProblemas.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\obj\Debug\netcoreapp3.1\ResolucaoDeProblemas.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\obj\Debug\netcoreapp3.1\ResolucaoDeProblemas.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\obj\Debug\netcoreapp3.1\ResolucaoDeProblemas.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\ResolucaoDeProblemas\obj\Debug\netcoreapp3.1\ResolucaoDeProblemas.genruntimeconfig.cache

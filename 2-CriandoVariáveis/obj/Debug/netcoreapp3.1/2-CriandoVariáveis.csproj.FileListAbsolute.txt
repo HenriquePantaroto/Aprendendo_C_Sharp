@@ -1,0 +1,13 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.deps.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.runtimeconfig.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.runtimeconfig.dev.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.genruntimeconfig.cache

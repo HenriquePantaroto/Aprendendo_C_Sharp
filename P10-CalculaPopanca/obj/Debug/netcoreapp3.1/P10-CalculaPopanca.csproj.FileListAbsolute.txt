@@ -1,0 +1,13 @@
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\bin\Debug\netcoreapp3.1\P10-CalculaPopanca.exe
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\bin\Debug\netcoreapp3.1\P10-CalculaPopanca.deps.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\bin\Debug\netcoreapp3.1\P10-CalculaPopanca.runtimeconfig.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\bin\Debug\netcoreapp3.1\P10-CalculaPopanca.runtimeconfig.dev.json
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\bin\Debug\netcoreapp3.1\P10-CalculaPopanca.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\bin\Debug\netcoreapp3.1\P10-CalculaPopanca.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\obj\Debug\netcoreapp3.1\P10-CalculaPopanca.csprojAssemblyReference.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\obj\Debug\netcoreapp3.1\P10-CalculaPopanca.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\obj\Debug\netcoreapp3.1\P10-CalculaPopanca.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\obj\Debug\netcoreapp3.1\P10-CalculaPopanca.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\obj\Debug\netcoreapp3.1\P10-CalculaPopanca.dll
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\obj\Debug\netcoreapp3.1\P10-CalculaPopanca.pdb
+C:\Users\Henrique\source\repos\AprendendoCSharp\P10-CalculaPopanca\obj\Debug\netcoreapp3.1\P10-CalculaPopanca.genruntimeconfig.cache

@@ -17,7 +17,6 @@ namespace P11_CalculaPoupanca2
                     "R$" + investimento + ".");
             }
 
-            Console.WriteLine("Felipão gatão.");
             Console.WriteLine("Fim do Programa");
         }
     }
